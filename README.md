@@ -6,9 +6,14 @@ Inline attributes for printing. or html style attributes for python3
 ## Getting Started 📝
 
 ```bash
-
+cd project
 git clone https://github.com/Donny-GUI/iprint.git
 
+
+```
+_within your file_
+```python3
+from inline import iprint
 
 ```
 
@@ -21,8 +26,18 @@ iprint("<bold green on blue> Hello world in color! </bold green on blue>")
 inline("<bold green on blue> Hello world in color! </bold green on blue>")
 
 iprint_examples()
-iprint_display()
+display_themes()
 
+```
+## Displaying all the Themes
+```python3
+display_themes()
+
+```
+
+## Seeing Examples
+```
+iprint_example()
 ```
 
 ## tag syntax ✨
