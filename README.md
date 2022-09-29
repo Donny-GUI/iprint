@@ -1,7 +1,7 @@
 # iprint
 Inline attributes for printing. or html style attributes for python3
 
-
+![alt text](https://github.com/Donny-GUI/iprint/blob/main/iprintss.png?raw=true)
 
 ## Getting Started 📝
 
@@ -15,6 +15,10 @@ _within your file_
 ```python3
 from inline import iprint
 
+```
+## display themes from cmdline
+```bash
+python3 -m inline.display_themes
 ```
 
 ## importing module 🐍
