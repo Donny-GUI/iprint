@@ -3,6 +3,7 @@ Inline attributes for printing. or html style attributes for python3
 
 ![alt text](https://github.com/Donny-GUI/iprint/blob/main/iprintss.png?raw=true)
 
+![alt text](https://github.com/Donny-GUI/iprint/blob/main/iprint2.png?raw=true)
 ## Getting Started 📝
 
 ```bash
