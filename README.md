@@ -1,8 +1,9 @@
 # iprint
-Inline attributes for printing. or html style attributes
+Inline attributes for printing. or html style attributes for python3
 
 
-## Getting Started
+
+## Getting Started 📝
 
 ```bash
 
@@ -11,7 +12,7 @@ git clone https://github.com/Donny-GUI/iprint.git
 
 ```
 
-## importing module
+## importing module 🐍
 
 ```python
 from iprint import iprint, inline
@@ -24,17 +25,23 @@ iprint_display()
 
 ```
 
-## tag syntax
+## tag syntax ✨
 ```
 <style if any> <text color> on <background color>
+
+<bold black on white> your string here </end>
+iprint("<bold black on white> your string here </end>")
 ```
 or 
 ```
-<text color>
+<text color> your string here </text color>
+iprint("<text color> your string here </text color>")
 ```
 or 
 ```
-bg<color>
+<{bg}color>
+<bgblue> your text here </bgblue>
+iprint("<bgblue> your text here </bgblue>")
 ```
 ## Available Tags
 
